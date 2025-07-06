@@ -1,0 +1,742 @@
+[
+  {
+    "name": "BAYSIDE",
+    "x": 235,
+    "y": 278
+  },
+  {
+    "name": "BAYSIDE MARINA",
+    "x": 365,
+    "y": 326
+  },
+  {
+    "name": "BAYSIDE TUNNEL",
+    "x": 441,
+    "y": 179
+  },
+  {
+    "name": "EL QUEBRADOS",
+    "x": 754,
+    "y": 136
+  },
+  {
+    "name": "ALDEA MALVADA",
+    "x": 860,
+    "y": 219
+  },
+  {
+    "name": "GANT BRIDGE",
+    "x": 164,
+    "y": 595
+  },
+  {
+    "name": "SAN FIERRO BAY",
+    "x": 362,
+    "y": 596
+  },
+  {
+    "name": "ESPLANADE NORTH",
+    "x": 567,
+    "y": 799
+  },
+  {
+    "name": "BATTERY POINT",
+    "x": 186,
+    "y": 825
+  },
+  {
+    "name": "JUNIPER HOLLOW",
+    "x": 304,
+    "y": 975
+  },
+  {
+    "name": "PARADISO",
+    "x": 186,
+    "y": 1011
+  },
+  {
+    "name": "PALISADES",
+    "x": 79,
+    "y": 1066
+  },
+  {
+    "name": "CALTON HEIGHTS",
+    "x": 456,
+    "y": 978
+  },
+  {
+    "name": "FINANCIAL",
+    "x": 620,
+    "y": 1044
+  },
+  {
+    "name": "ESPLANADE EAST",
+    "x": 788,
+    "y": 959
+  },
+  {
+    "name": "JUNIPER HILL",
+    "x": 313,
+    "y": 1141
+  },
+  {
+    "name": "SANTA FLORA",
+    "x": 190,
+    "y": 1208
+  },
+  {
+    "name": "CHINATOWN",
+    "x": 421,
+    "y": 1186
+  },
+  {
+    "name": "DOWNTOWN",
+    "x": 627,
+    "y": 1195
+  },
+  {
+    "name": "KINGS",
+    "x": 454,
+    "y": 1318
+  },
+  {
+    "name": "QUEENS",
+    "x": 294,
+    "y": 1325
+  },
+  {
+    "name": "CITY HALL",
+    "x": 170,
+    "y": 1346
+  },
+  {
+    "name": "OCEAN FLATS",
+    "x": 110,
+    "y": 1518
+  },
+  {
+    "name": "GARCIA",
+    "x": 336,
+    "y": 1473
+  },
+  {
+    "name": "CRANBERRY STATION",
+    "x": 530,
+    "y": 1460
+  },
+  {
+    "name": "HASHBURY",
+    "x": 249,
+    "y": 1619
+  },
+  {
+    "name": "DOHERTY",
+    "x": 491,
+    "y": 1614
+  },
+  {
+    "name": "AVISPA COUNTRY CLUB",
+    "x": 231,
+    "y": 1672
+  },
+  {
+    "name": "MISSIONARY HILL",
+    "x": 216,
+    "y": 1847
+  },
+  {
+    "name": "FOSTER VALLEY",
+    "x": 491,
+    "y": 1932
+  },
+  {
+    "name": "MOUNT CHILIAD",
+    "x": 289,
+    "y": 2336
+  },
+  {
+    "name": "ANGEL PINE",
+    "x": 444,
+    "y": 2751
+  },
+  {
+    "name": "SHADY CREEKS",
+    "x": 739,
+    "y": 2578
+  },
+  {
+    "name": "SHADY CABIN",
+    "x": 707,
+    "y": 2701
+  },
+  {
+    "name": "BACK O' BEYOND",
+    "x": 1165,
+    "y": 2681
+  },
+  {
+    "name": "LEAFY HOLLOW",
+    "x": 1034,
+    "y": 2418
+  },
+  {
+    "name": "LOS SANTOS INLET",
+    "x": 1472,
+    "y": 2494
+  },
+  {
+    "name": "FLINT RANGE",
+    "x": 1343,
+    "y": 2284
+  },
+  {
+    "name": "FLINT INTERSECTION",
+    "x": 1499,
+    "y": 2275
+  },
+  {
+    "name": "BEACON HILL",
+    "x": 1354,
+    "y": 2056
+  },
+  {
+    "name": "THE FARM",
+    "x": 1002,
+    "y": 2078
+  },
+  {
+    "name": "FALLEN TREE",
+    "x": 1225,
+    "y": 1804
+  },
+  {
+    "name": "FLINT WATERS",
+    "x": 1411,
+    "y": 1837
+  },
+  {
+    "name": "EASTER BAY CHEMICALS",
+    "x": 1005,
+    "y": 1871
+  },
+  {
+    "name": "EASTER TUNNEL",
+    "x": 746,
+    "y": 1942
+  },
+  {
+    "name": "EASTER BAY AIRPORT",
+    "x": 902,
+    "y": 1617
+  },
+  {
+    "name": "EASTER BASIN",
+    "x": 789,
+    "y": 1349
+  },
+  {
+    "name": "GARVER BRIDGE",
+    "x": 926,
+    "y": 1002
+  },
+  {
+    "name": "KINCAID BRIDGE",
+    "x": 904,
+    "y": 1139
+  },
+  {
+    "name": "ROBADA INTERSECTION",
+    "x": 1022,
+    "y": 889
+  },
+  {
+    "name": "VALLE OCULTADO",
+    "x": 1106,
+    "y": 103
+  },
+  {
+    "name": "ARCO DEL OESTE",
+    "x": 1154,
+    "y": 307
+  },
+  {
+    "name": "THE SHERMAN DAM",
+    "x": 1183,
+    "y": 478
+  },
+  {
+    "name": "SHERMAN RESERVOIR",
+    "x": 1182,
+    "y": 613
+  },
+  {
+    "name": "LAS BARRANCAS",
+    "x": 1114,
+    "y": 767
+  },
+  {
+    "name": "FORT CARSON",
+    "x": 1549,
+    "y": 948
+  },
+  {
+    "name": "THE BIG EAR",
+    "x": 1386,
+    "y": 750
+  },
+  {
+    "name": "THE REGULAR TOM",
+    "x": 1353,
+    "y": 608
+  },
+  {
+    "name": "LAS BRUJAS",
+    "x": 1360,
+    "y": 423
+  },
+  {
+    "name": "EL CASTILLO DEL DIABLO",
+    "x": 1416,
+    "y": 328
+  },
+  {
+    "name": "LAS PAYASADAS",
+    "x": 1398,
+    "y": 114
+  },
+  {
+    "name": "VERDANT MEADOWS",
+    "x": 1645,
+    "y": 294
+  },
+  {
+    "name": "AREA 69",
+    "x": 1617,
+    "y": 593
+  },
+  {
+    "name": "LIL' PROBE INN",
+    "x": 1554,
+    "y": 796
+  },
+  {
+    "name": "GREEN PALMS",
+    "x": 1674,
+    "y": 821
+  },
+  {
+    "name": "MARTIN BRIDGE",
+    "x": 1456,
+    "y": 1323
+  },
+  {
+    "name": "FALLOW BRIDGE",
+    "x": 1797,
+    "y": 1260
+  },
+  {
+    "name": "HUNTER QUARRY",
+    "x": 1854,
+    "y": 1092
+  },
+  {
+    "name": "OCTANE SPRINGS",
+    "x": 1794,
+    "y": 808
+  },
+  {
+    "name": "YELLOW BELL GOLF CLUB",
+    "x": 2220,
+    "y": 98
+  },
+  {
+    "name": "YELLOW BELL STATION",
+    "x": 2271,
+    "y": 191
+  },
+  {
+    "name": "PRICKLE PINE",
+    "x": 2481,
+    "y": 111
+  },
+  {
+    "name": "SPINYBED",
+    "x": 2717,
+    "y": 98
+  },
+  {
+    "name": "K.A.C.C. MILITARY FUELS",
+    "x": 2884,
+    "y": 109
+  },
+  {
+    "name": "CREEK",
+    "x": 2995,
+    "y": 288
+  },
+  {
+    "name": "SOBELL RAIL YARDS",
+    "x": 2999,
+    "y": 638
+  },
+  {
+    "name": "LINDEN STATION",
+    "x": 3006,
+    "y": 840
+  },
+  {
+    "name": "LINDEN SIDE",
+    "x": 2994,
+    "y": 994
+  },
+  {
+    "name": "ROCKSHORE EAST",
+    "x": 2954,
+    "y": 1113
+  },
+  {
+    "name": "ROCKSHORE WEST",
+    "x": 2705,
+    "y": 1224
+  },
+  {
+    "name": "LAST DIME MOTEL",
+    "x": 2526,
+    "y": 1177
+  },
+  {
+    "name": "RANDOLPH INDUSTRIAL ESTATE",
+    "x": 2398,
+    "y": 1164
+  },
+  {
+    "name": "BLACKFIELD CHAPEL",
+    "x": 2267,
+    "y": 1149
+  },
+  {
+    "name": "GREENGLASS COLLEGE",
+    "x": 2092,
+    "y": 994
+  },
+  {
+    "name": "BLACKFIELD",
+    "x": 2101,
+    "y": 809
+  },
+  {
+    "name": "LAS VENTURAS AIRPORT",
+    "x": 2337,
+    "y": 764
+  },
+  {
+    "name": "WHITEWOOD ESTATES",
+    "x": 2084,
+    "y": 447
+  },
+  {
+    "name": "REDSANDS WEST",
+    "x": 2316,
+    "y": 446
+  },
+  {
+    "name": "REDSANDS EAST",
+    "x": 2523,
+    "y": 394
+  },
+  {
+    "name": "THE EMERALD ISLE",
+    "x": 2627,
+    "y": 276
+  },
+  {
+    "name": "ROCA ESCALENTE",
+    "x": 2753,
+    "y": 338
+  },
+  {
+    "name": "OLD VENTURAS STRIP",
+    "x": 2749,
+    "y": 466
+  },
+  {
+    "name": "THE VISAGE",
+    "x": 2527,
+    "y": 568
+  },
+  {
+    "name": "STARFISH CASINO",
+    "x": 2769,
+    "y": 553
+  },
+  {
+    "name": "THE CLOWN'S POCKET",
+    "x": 2716,
+    "y": 592
+  },
+  {
+    "name": "CALIGULA'S PALACE",
+    "x": 2674,
+    "y": 715
+  },
+  {
+    "name": "PILGRIM",
+    "x": 2843,
+    "y": 733
+  },
+  {
+    "name": "PIRATES IN MEN'S PANTS",
+    "x": 2525,
+    "y": 713
+  },
+  {
+    "name": "ROYAL CASINO",
+    "x": 2692,
+    "y": 783
+  },
+  {
+    "name": "THE HIGH ROLLER",
+    "x": 2532,
+    "y": 838
+  },
+  {
+    "name": "THE CAMEL'S TOE",
+    "x": 2732,
+    "y": 876
+  },
+  {
+    "name": "COME-A-LOT",
+    "x": 2732,
+    "y": 967
+  },
+  {
+    "name": "THE PINK SWAN",
+    "x": 2530,
+    "y": 925
+  },
+  {
+    "name": "LVA FREIGHT DEPOT",
+    "x": 2396,
+    "y": 1021
+  },
+  {
+    "name": "THE FOUR DRAGONS CASINO",
+    "x": 2535,
+    "y": 1035
+  },
+  {
+    "name": "THE PANOPTICON",
+    "x": 1216,
+    "y": 1528
+  },
+  {
+    "name": "BLUEBERRY ACRES",
+    "x": 1500,
+    "y": 1518
+  },
+  {
+    "name": "BLUEBERRY",
+    "x": 1642,
+    "y": 1675
+  },
+  {
+    "name": "HAMPTON BARNS",
+    "x": 1895,
+    "y": 1378
+  },
+  {
+    "name": "THE MAKO SPAN",
+    "x": 2415,
+    "y": 1296
+  },
+  {
+    "name": "FISHERS LAGOON",
+    "x": 2570,
+    "y": 1593
+  },
+  {
+    "name": "FERN RIDGE",
+    "x": 1992,
+    "y": 1539
+  },
+  {
+    "name": "HILLTOP FARM",
+    "x": 2092,
+    "y": 1709
+  },
+  {
+    "name": "DILLIMORE",
+    "x": 1919,
+    "y": 1761
+  },
+  {
+    "name": "PALOMINO CREEK",
+    "x": 2763,
+    "y": 1447
+  },
+  {
+    "name": "HANKY PANKY POINT",
+    "x": 2905,
+    "y": 1409
+  },
+  {
+    "name": "NORTH ROCK",
+    "x": 2836,
+    "y": 1785
+  },
+  {
+    "name": "RICHMAN",
+    "x": 1728,
+    "y": 2103
+  },
+  {
+    "name": "MULHOLLAND",
+    "x": 2130,
+    "y": 1950
+  },
+  {
+    "name": "TEMPLE",
+    "x": 2064,
+    "y": 2100
+  },
+  {
+    "name": "VINEWOOD",
+    "x": 1948,
+    "y": 2159
+  },
+  {
+    "name": "MARINA",
+    "x": 1922,
+    "y": 2333
+  },
+  {
+    "name": "RODEO",
+    "x": 1749,
+    "y": 2362
+  },
+  {
+    "name": "SANTA MARIA BEACH",
+    "x": 1727,
+    "y": 2470
+  },
+  {
+    "name": "VERONA BEACH",
+    "x": 1974,
+    "y": 2500
+  },
+  {
+    "name": "CONFERENCE CENTER",
+    "x": 2143,
+    "y": 2453
+  },
+  {
+    "name": "VERDANT BLUFFS",
+    "x": 2153,
+    "y": 2561
+  },
+  {
+    "name": "MARKET",
+    "x": 2132,
+    "y": 2203
+  },
+  {
+    "name": "DOWNTOWN LOS SANTOS",
+    "x": 2369,
+    "y": 2174
+  },
+  {
+    "name": "COMMERCE",
+    "x": 2304,
+    "y": 2322
+  },
+  {
+    "name": "PERSHING SQUARE",
+    "x": 2312,
+    "y": 2385
+  },
+  {
+    "name": "LITTLE MEXICO",
+    "x": 2447,
+    "y": 2426
+  },
+  {
+    "name": "UNITY STATION",
+    "x": 2438,
+    "y": 2515
+  },
+  {
+    "name": "EL CORONA",
+    "x": 2469,
+    "y": 2590
+  },
+  {
+    "name": "LOS SANTOS INTERNATIONAL",
+    "x": 2419,
+    "y": 2778
+  },
+  {
+    "name": "WILLOWFIELD",
+    "x": 2635,
+    "y": 2533
+  },
+  {
+    "name": "OCEAN DOCKS",
+    "x": 2843,
+    "y": 2659
+  },
+  {
+    "name": "OCEAN DOCKS",
+    "x": 2892,
+    "y": 2842
+  },
+  {
+    "name": "PLAYA DEL SEVILLE",
+    "x": 2973,
+    "y": 2554
+  },
+  {
+    "name": "EAST BEACH",
+    "x": 2972,
+    "y": 2332
+  },
+  {
+    "name": "LOS FLORES",
+    "x": 2897,
+    "y": 2201
+  },
+  {
+    "name": "LAS COLINAS",
+    "x": 2908,
+    "y": 2054
+  },
+  {
+    "name": "JEFFERSON",
+    "x": 2614,
+    "y": 2232
+  },
+  {
+    "name": "EAST LOS SANTOS",
+    "x": 2795,
+    "y": 2250
+  },
+  {
+    "name": "GANTON",
+    "x": 2776,
+    "y": 2423
+  },
+  {
+    "name": "IDLEWOOD",
+    "x": 2564,
+    "y": 2389
+  },
+  {
+    "name": "GLEN PARK",
+    "x": 2538,
+    "y": 2152
+  },
+  {
+    "name": "MULHOLLAND INTERSECTION",
+    "x": 2381,
+    "y": 2037
+  }
+]
