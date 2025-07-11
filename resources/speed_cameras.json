@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Ocean Docks",
+        "x": 2801,
+        "y": 2694,
+        "speed": "120 km/h"
+    },
+    {
+        "name": "Commerce",
+        "x": 2233,
+        "y": 2421,
+        "speed": "80 km/h"
+    },
+    {
+        "name": "East Los Santos",
+        "x": 2843,
+        "y": 2127,
+        "speed": "120 km/h"
+    },
+    {
+        "name": "Redsands West",
+        "x": 2410,
+        "y": 532,
+        "speed": "80 km/h"
+    },
+    {
+        "name": "Starfish Casino",
+        "x": 2790,
+        "y": 526,
+        "speed": "80 km/h"
+    },
+    {
+        "name": "Whitewood Estates",
+        "x": 2056,
+        "y": 404,
+        "speed": "80 km/h"
+    },
+    {
+        "name": "Blackfield",
+        "x": 2053,
+        "y": 774,
+        "speed": "80 km/h"
+    },
+    {
+        "name": "Cranberry Station",
+        "x": 509,
+        "y": 1467,
+        "speed": "80 km/h"
+    },
+    {
+        "name": "Doherty",
+        "x": 613,
+        "y": 1529,
+        "speed": "80 km/h"
+    },
+    {
+        "name": "Garcia",
+        "x": 385,
+        "y": 1479,
+        "speed": "80 km/h"
+    },
+    {
+        "name": "Santa Flora",
+        "x": 212,
+        "y": 1242,
+        "speed": "80 km/h"
+    },
+    {
+        "name": "Ocean Flats",
+        "x": 98,
+        "y": 1481,
+        "speed": "80 km/h"
+    }
+]
